@@ -25,6 +25,7 @@ h2{
     color: rgb(0, 0, 0);
 }
 
-.lado{
-    float: right;
+img.lado{
+width: 100px;
+float: right;
 }
